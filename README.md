@@ -22,25 +22,25 @@
 <div align="center"><img src="https://i.postimg.cc/d1khd8mj/4.png"></div>
 
 5. Crear un archivo README.md con la descripción de los conceptos aprendido en esta sesión
-<div align="center"><img src="https://res.cloudinary.com/dmld1onhq/image/upload/v1635028184/geek-academia/modulo-0/5_u565x5.png"></div>
+<div align="center"></div>
 
 6. Hacer un `git status` de los cambios realizados
-<div align="center"><img src="https://res.cloudinary.com/dmld1onhq/image/upload/v1635028185/geek-academia/modulo-0/6_zvridk.png"></div>
+<div align="center"></div>
 
 7. Agregar los archivos con `git add .`
-<div align="center"><img src="https://res.cloudinary.com/dmld1onhq/image/upload/v1635028185/geek-academia/modulo-0/7_y1dulg.png"></div>
+<div align="center"><img src="https://i.postimg.cc/HLLcWGrK/6.png"></div>
 
 8. Verificar los archivos adicionados con `git status`
 <div align="center"><img src="https://res.cloudinary.com/dmld1onhq/image/upload/v1635028185/geek-academia/modulo-0/8_hmlqd8.png"></div>
 
 9. Hacer un commit: ``` git commit -m "Ejercicios Git" ```
-<div align="center"><img src="https://res.cloudinary.com/dmld1onhq/image/upload/v1635028185/geek-academia/modulo-0/9_uhtwoo.png"></div>
+<div align="center"><img src="https://i.postimg.cc/Dzm0kqD3/7.png"></div>
 
 10. Crear un repositorio en gitHub
-<div align="center"><img src="https://res.cloudinary.com/dmld1onhq/image/upload/v1635028185/geek-academia/modulo-0/10_iyutma.png"></div>
+<div align="center"><img src="https://i.postimg.cc/tgfTXsQZ/8.png"></div>
 
 11. Agregar la url del repositorio remoto
-<div align="center"><img src="https://res.cloudinary.com/dmld1onhq/image/upload/v1635028185/geek-academia/modulo-0/11_vbhomv.png"></div>
+<div align="center"><img src="https://i.postimg.cc/gJZ0rGmM/9.png"></div>
 
 12. terminar con `git push` para entregar los cambios a la respectiva rama.
-<div align="center"><img src="https://res.cloudinary.com/dmld1onhq/image/upload/v1635028185/geek-academia/modulo-0/12_cch1gu.png"></div>
+<div align="center"><img src="https://i.postimg.cc/2yNSZg5C/10.png"></div>
