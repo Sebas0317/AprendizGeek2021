@@ -12,14 +12,14 @@
 <div align="center"><img src="https://i.postimg.cc/CLVRBnZb/1.png"></div>
 
 2. buscar la carpeta de trabajo por la terminal con el comando `cd` 
-<div align="center"><img src="https://res.cloudinary.com/dmld1onhq/image/upload/v1635027368/geek-academia/modulo-0/1_u6anvn.png"></div>
+<div align="center"><img src="https://i.postimg.cc/4Nbmz4tq/2.png"></div>
 
 
 3. Estando en la carpeta de trabajo, crear una carpeta con el nombre ejercicio-uno, acceder a la carpeta
-<div align="center"><img src="https://res.cloudinary.com/dmld1onhq/image/upload/v1635027797/geek-academia/modulo-0/3_ruk904.png"></div>
+<div align="center"><img src="https://i.postimg.cc/j5pLhLM0/3.png"></div>
 
 4. Estando en la carpeta ejercicio-uno crear un archivo con el nombre index.html con la siguiente estructura
-<div align="center"><img src="https://res.cloudinary.com/dmld1onhq/image/upload/v1635027987/geek-academia/modulo-0/4_dhpnwg.png"></div>
+<div align="center"><img src="https://i.postimg.cc/d1khd8mj/4.png"></div>
 
 5. Crear un archivo README.md con la descripción de los conceptos aprendido en esta sesión
 <div align="center"><img src="https://res.cloudinary.com/dmld1onhq/image/upload/v1635028184/geek-academia/modulo-0/5_u565x5.png"></div>
