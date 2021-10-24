@@ -9,7 +9,7 @@
 ## Desarrollo 
 
 1. Crear una carpeta de trabajo con el nombre Aprendiz-Geek para el curso usando el comando `mkdir`
-<div align="center"><img src="https://res.cloudinary.com/dmld1onhq/image/upload/v1635027619/geek-academia/modulo-0/1.1_ipnr9l.png"></div>
+<div align="center"><img src="https://i.postimg.cc/CLVRBnZb/1.png"></div>
 
 2. buscar la carpeta de trabajo por la terminal con el comando `cd` 
 <div align="center"><img src="https://res.cloudinary.com/dmld1onhq/image/upload/v1635027368/geek-academia/modulo-0/1_u6anvn.png"></div>
