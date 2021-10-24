@@ -31,7 +31,7 @@
 <div align="center"><img src="https://i.postimg.cc/HLLcWGrK/6.png"></div>
 
 8. Verificar los archivos adicionados con `git status`
-<div align="center"><img src="https://res.cloudinary.com/dmld1onhq/image/upload/v1635028185/geek-academia/modulo-0/8_hmlqd8.png"></div>
+<div align="center"></div>
 
 9. Hacer un commit: ``` git commit -m "Ejercicios Git" ```
 <div align="center"><img src="https://i.postimg.cc/Dzm0kqD3/7.png"></div>
